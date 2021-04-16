@@ -15,7 +15,7 @@ namespace WindowsFormsApp7
         public Form1()
         {
             InitializeComponent();
-            MessageBox.sho("merhaba");
+            MessageBox.sho("hello arman merhaba");
         }
     }
 }
